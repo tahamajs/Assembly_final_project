@@ -9,7 +9,7 @@ then you can run program in comand line
 this is like other assembly languages 
 
 
-##All instructions :
+## All instructions :
 
 ● ADD Srd, Srs, Srt
 
