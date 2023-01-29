@@ -1,8 +1,8 @@
 # Assembly_final_project
-#####This is final project of Khajenasir University 
-######It has PDF in it but in persian language 
+##### This is final project of Khajenasir University 
+###### It has PDF in it but in persian language 
 
-##What is this project about?
+## What is this project about?
 you can write your code in assembly language and put it in in.txt
 then you can run program in comand line 
 
