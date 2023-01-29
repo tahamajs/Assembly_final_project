@@ -10,7 +10,7 @@ this is like other assembly languages
 
 
 ##All instructions :
-'''
+
 ● ADD Srd, Srs, Srt
 
 ● SUB Srd, Srs, Srt
@@ -46,4 +46,8 @@ this is like other assembly languages
 ● JMP Imm
 
 ● EXIT
-'''
+
+## More info
+this program has 32 registers you can name them S0 to S31
+whit 4byte of intiger value
+and it has 1 byte status register 
